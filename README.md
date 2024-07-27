@@ -26,7 +26,7 @@ pip -r requirements.txt
 ```
 
 You may need to manually install `pytorch3d 0.5.0` according to
-this [doc](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md).
+this [tutorial specifically for this verion](https://github.com/facebookresearch/pytorch3d/blob/4046677cf1f8a6e5e9f9e8ef43e5c25200183c64/INSTALL.md).
 
 # Evaluation
 
